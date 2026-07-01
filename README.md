@@ -1,6 +1,6 @@
 # Fuel Calculator
 
-FlyWithLua script for X-Plane 12 that calculates how much fuel to uplift. Enter trip fuel and fuel on board in pounds, apply an optional reserve percentage, and get the volume to add in litres or US gallons.
+FlyWithLua script for X-Plane 12 that calculates how much fuel to uplift. Enter trip fuel and fuel on board in pounds, apply an optional reserve percentage, and get the volume to add in litres or US gallons. I fly the Challenger 650 frequently between the U.S. and Europe; so dealing with the interconversion between imperial and metric units become a hassle. Don't want another [Gimli Glider](https://en.wikipedia.org/wiki/Gimli_Glider).
 
 ---
 
