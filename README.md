@@ -4,6 +4,8 @@ FlyWithLua script for X-Plane 12 that calculates how much fuel to uplift. Enter 
 
 ---
 
+![](images/fuel_calculator_screenshot.webp)
+
 ## Installation
 
 ### Requirements
